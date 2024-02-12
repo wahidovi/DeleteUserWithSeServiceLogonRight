@@ -1,8 +1,0 @@
-C:\Users\rahmam22\source\repos\DeleteAUser\DeleteAUser\bin\Debug\DeleteAUser.exe.config
-C:\Users\rahmam22\source\repos\DeleteAUser\DeleteAUser\bin\Debug\DeleteAUser.exe
-C:\Users\rahmam22\source\repos\DeleteAUser\DeleteAUser\bin\Debug\DeleteAUser.pdb
-C:\Users\rahmam22\source\repos\DeleteAUser\DeleteAUser\obj\Debug\DeleteAUser.csproj.AssemblyReference.cache
-C:\Users\rahmam22\source\repos\DeleteAUser\DeleteAUser\obj\Debug\DeleteAUser.csproj.SuggestedBindingRedirects.cache
-C:\Users\rahmam22\source\repos\DeleteAUser\DeleteAUser\obj\Debug\DeleteAUser.csproj.CoreCompileInputs.cache
-C:\Users\rahmam22\source\repos\DeleteAUser\DeleteAUser\obj\Debug\DeleteAUser.exe
-C:\Users\rahmam22\source\repos\DeleteAUser\DeleteAUser\obj\Debug\DeleteAUser.pdb
